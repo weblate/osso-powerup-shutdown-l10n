@@ -3,92 +3,113 @@ msgstr ""
 "Project-Id-Version: osso-powerup-shutdown 20100215141337\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.15 14:13+0200\n"
-"PO-Revision-Date: 2010.02.15 14:13+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 19:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-powerup-shutdown-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "cherry_bt_terms_conditions"
-msgstr ""
+msgstr "விதிமுறைகள் மற்றும் நிபந்தனைகள்"
 
 msgid "dpup_ia_battery_full"
-msgstr ""
+msgstr "பேட்டரி நிரம்பியுள்ளது"
 
 msgid "dpup_ia_charging"
-msgstr ""
+msgstr "சார்சிங்"
 
 msgid "dpup_ia_remove_charger"
-msgstr ""
+msgstr "ஆற்றலைச் சேமிக்க மின்சார விநியோகத்திலிருந்து சார்சரைத் துண்டிக்கவும்"
 
 msgid "dpup_ia_thermal_shutdown"
 msgstr ""
+"சாதனம் மிகவும் சூடாக இருக்கும் மற்றும் மூடப்படும். குளிரூட்ட உதவ விசைப்பலகை வெளியே "
+"ச்லைடு."
 
 msgid "dpup_ib_cannot_charge_battery"
-msgstr ""
+msgstr "கட்டணம் வசூலிக்கவில்லை"
 
 msgid "powerup_by_continuing"
-msgstr ""
+msgstr "தொடர்வதன் மூலம், நோக்கியாவின் விதிமுறைகளை நீங்கள் ஏற்றுக்கொள்கிறீர்கள்."
 
 msgid "powerup_ib_device_lock_not_available"
-msgstr ""
+msgstr "அழைப்பின் போது சாதனத்தை பூட்ட முடியவில்லை"
 
 msgid "powerup_ib_general_activated"
-msgstr ""
+msgstr "செயல்படுத்தப்பட்ட சுயவிவரம்: பொது"
 
 msgid "powerup_ib_silent_activated"
-msgstr ""
+msgstr "செயல்படுத்தப்பட்ட சுயவிவரம்: அமைதியாக"
 
 msgid "powerup_in_do_not_switch_off"
 msgstr ""
+"சாதனம் யூ.எச்.பி வழியாக பயன்படுத்தப்படுகிறது. கணினியிலிருந்து சாதனத்தை துண்டித்து, "
+"சாதனத்தை மீண்டும் அணைக்க முயற்சிக்கவும்."
 
 msgid "powerup_memain_endcurrenttask"
-msgstr ""
+msgstr "தற்போதைய பணியை முடிக்கவும்"
 
 msgid "powerup_memainmenu_flightmode"
-msgstr ""
+msgstr "இணைப்பில்லாத பயன்முறை"
 
 msgid "powerup_memainmenu_general"
-msgstr ""
+msgstr "பொது"
 
 msgid "powerup_memainmenu_lockdevice"
-msgstr ""
+msgstr "பாதுகாப்பான சாதனம்"
 
 msgid "powerup_memainmenu_lockscreen"
-msgstr ""
+msgstr "பூட்டு திரை மற்றும் விசைகள்"
 
 msgid "powerup_memainmenu_normalmode"
-msgstr ""
+msgstr "சாதாரண பயன்முறை"
 
 msgid "powerup_memainmenu_poweroff"
-msgstr ""
+msgstr "அணைக்க!"
 
 msgid "powerup_memainmenu_silent"
-msgstr ""
+msgstr "அமைதியாக"
 
 msgid "powerup_nc_exit_flight_mode"
-msgstr ""
+msgstr "இணைப்பில்லாத பயன்முறையிலிருந்து வெளியேறவா?"
 
 msgid "powerup_sign_up_register"
-msgstr ""
+msgstr "பதிவு செய்க"
 
 msgid "powerup_thank_you"
 msgstr ""
+"நோக்கியாவை தேர்ந்தெடுத்ததற்கு நன்றி. உங்கள் நோக்கியாவில் நூற்றுக்கணக்கான இலவச பயன்பாடுகள் "
+"மற்றும் விளையாட்டுகளுடன் ஓவி கடை உள்ளது."
 
 msgid "powerup_thank_you2"
 msgstr ""
+"நோக்கியாவை தேர்ந்தெடுத்ததற்கு நன்றி. உங்கள் புதிய நோக்கியாவிலிருந்து பெரும்பாலானவற்றைப் பெ"
+"ற நீங்கள் இலவச உதவிக்குறிப்புகள் மற்றும் உதவி செய்திகளுக்கு பதிவுபெறலாம்"
 
 msgid "powerup_to_get_most"
 msgstr ""
+"உங்கள் புதிய நோக்கியாவிலிருந்து அதிகம் பெற நீங்கள் இலவச உதவிக்குறிப்புகள் மற்றும் உதவி "
+"செய்திகளைப் பெறுவீர்கள். தொடர்வதன் மூலம், நோக்கியாவின் விதிமுறைகளை நீங்கள் ஏற்றுக்கொள்கிறீர்கள்."
 
 msgid "qtn_pa_confirmation_sf"
 msgstr ""
+"உங்கள் பதிவுபெறுதல் தோல்வியடைந்தது.\n"
+" மீண்டும் முயற்சிக்க அமைப்புகளில் 'என் நோக்கியா' ஐப் பார்க்கவும். மேலும் தகவலுக்கு, "
+"www.nokia.com/mynokia ஐப் பார்வையிடவும்"
 
 msgid "qtn_pa_confirmation_ss1_1"
 msgstr ""
+"எனது நோக்கியாவுக்கு வருக.\n"
+" எச்எம்எச் வழியாக உங்கள் நோக்கியாவுக்கு இலவச உதவிக்குறிப்புகள் மற்றும் ஆதரவைப் பெறத் "
+"தொடங்குவீர்கள். குழுவிலகுவதற்கு அமைப்புகளில் 'என் நோக்கியா' ஐப் பார்க்கவும்."
 
 msgid "qtn_pa_confirmation_ss2_1"
 msgstr ""
+"மீண்டும் வருக!\n"
+" நீங்கள் ஏற்கனவே எனது நோக்கியாவில் பதிவு செய்யப்பட்டுள்ளீர்கள். உங்கள் புதிய நோக்கியாவுக்கான "
+"உதவிக்குறிப்புகளைப் பெறத் தொடங்குவீர்கள்."
